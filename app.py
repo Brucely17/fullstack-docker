@@ -6,7 +6,7 @@ app = Flask(__name__)
 def run():
     if request.method == 'GET':
         # Handle GET request
-        return "<h1>Rioyich Tenkai - Domain Expansion</h1>"
+        return "<h1>Rioyich Tenkai - Domain Expansion (G)</h1><br> <h2>Gojo Sataraou</h2>"
     elif request.method == 'POST':
         # Handle POST request
         data = request.get_json()  # Parse JSON data from the POST request
