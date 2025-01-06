@@ -11,7 +11,7 @@ def run():
                 <br> 
                 <h2>Gojo Sataraou</h2> <br><h2>Sukuna</h2>
                 <br>
-                <h2>Arigatho Osaimasu</h2>
+                <h2>Arigatho Osaimasu- Thankyou</h2>
                 """
     elif request.method == 'POST':
         
